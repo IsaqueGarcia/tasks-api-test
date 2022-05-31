@@ -49,7 +49,7 @@ public class APITest {
 		;
 	}
 	
-	/*
+	
 	@Test
 	public void deveRemoverTarefaComSucesso() {
 		//inserir
@@ -74,5 +74,5 @@ public class APITest {
 			.statusCode(204)
 		;
 	}
-	*/
+	
 }
